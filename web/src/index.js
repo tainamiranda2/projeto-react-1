@@ -4,11 +4,7 @@ import './index.css';
 import Root from './pages/Root';
 import reportWebVitals from './reportWebVitals';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <Root />
-  </React.StrictMode>,
-  document.getElementById('root')
+ReactDOM.render( <Root />, document.getElementById('root')
 );
 
 

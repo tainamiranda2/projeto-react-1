@@ -11,3 +11,4 @@ const  promotion = {
     }
   ]
   };
+  <PromotionCard promotions={promotions} />
