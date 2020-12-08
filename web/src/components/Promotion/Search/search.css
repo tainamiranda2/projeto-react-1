@@ -1,0 +1,21 @@
+.promotion-search__hearder{
+display: flex;
+justify-content:space-between ;
+align-items: center;
+margin-bottom: 20px;
+}
+ .promotion-search__hearde h1{
+        text-transform: uppercase;
+        color: #c56;
+    }
+
+.promotion-search__input{
+    display: flex;
+    height: 42px;
+    border:  1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 0 10px;
+    font-size: 16px;
+}
